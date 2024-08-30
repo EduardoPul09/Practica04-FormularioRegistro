@@ -1,0 +1,10 @@
+C:\Users\eduso\Desktop\Prog. A\Practica04-FormularioRegistro\Practica04-FormularioRegistro\bin\Debug\Practica04-FormularioRegistro.exe.config
+C:\Users\eduso\Desktop\Prog. A\Practica04-FormularioRegistro\Practica04-FormularioRegistro\bin\Debug\Practica04-FormularioRegistro.exe
+C:\Users\eduso\Desktop\Prog. A\Practica04-FormularioRegistro\Practica04-FormularioRegistro\bin\Debug\Practica04-FormularioRegistro.pdb
+C:\Users\eduso\Desktop\Prog. A\Practica04-FormularioRegistro\Practica04-FormularioRegistro\obj\Debug\Practica04-FormularioRegistro.csproj.AssemblyReference.cache
+C:\Users\eduso\Desktop\Prog. A\Practica04-FormularioRegistro\Practica04-FormularioRegistro\obj\Debug\Practica04_FormularioRegistro.Form1.resources
+C:\Users\eduso\Desktop\Prog. A\Practica04-FormularioRegistro\Practica04-FormularioRegistro\obj\Debug\Practica04_FormularioRegistro.Properties.Resources.resources
+C:\Users\eduso\Desktop\Prog. A\Practica04-FormularioRegistro\Practica04-FormularioRegistro\obj\Debug\Practica04-FormularioRegistro.csproj.GenerateResource.cache
+C:\Users\eduso\Desktop\Prog. A\Practica04-FormularioRegistro\Practica04-FormularioRegistro\obj\Debug\Practica04-FormularioRegistro.csproj.CoreCompileInputs.cache
+C:\Users\eduso\Desktop\Prog. A\Practica04-FormularioRegistro\Practica04-FormularioRegistro\obj\Debug\Practica04-FormularioRegistro.exe
+C:\Users\eduso\Desktop\Prog. A\Practica04-FormularioRegistro\Practica04-FormularioRegistro\obj\Debug\Practica04-FormularioRegistro.pdb
