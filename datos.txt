@@ -1,0 +1,7 @@
+
+Nombres: Eduardo Francisco
+Apellidos: Pulido Duran
+Telefono: 789456123 
+Estatura: 171 
+Edad: 19 años
+Genero: Hombre
